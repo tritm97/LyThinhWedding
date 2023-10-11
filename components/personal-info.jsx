@@ -42,7 +42,7 @@ const GromAndBride = () => {
             Cô dâu
           </Text>
           <Text data-aos="fade-up" data-aos-offset="200" color="main">
-            Tìm về một nơi bên hiên nhà
+          Chúc mừng anh vì đã có được em 😎
           </Text>
         </VStack>
 
@@ -91,7 +91,7 @@ const GromAndBride = () => {
             Chú rể
           </Text>
           <Text data-aos="fade-up" data-aos-offset="200" color="main">
-            Tìm về một nơi bên hiên nhà
+            Ngày cưới em là giấc mơ từ lâu của anh 🥰
           </Text>
         </VStack>
       </Stack>

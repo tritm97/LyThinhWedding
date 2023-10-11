@@ -66,9 +66,9 @@ const Location = () => {
             fontSize={120}
             lineHeight={1}
           >
-            <Text as="span">13</Text>
+            <Text as="span">22</Text>
             <Text as="span">.</Text>
-            <Text as="span">08</Text>
+            <Text as="span">10</Text>
           </Text>
           <Text
             data-aos="fade-up"

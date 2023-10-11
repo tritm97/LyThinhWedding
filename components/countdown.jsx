@@ -39,7 +39,7 @@ export default function Countdown() {
             fontSize="6xl"
             color="gray.600"
           >
-            09/12/2022
+            22/10/2023
           </Text>
           <Divider py={6} orientation="horizontal" width={200} />
           <Stack

@@ -67,7 +67,7 @@ export default function IntroSection() {
           </FadeMotion>
           <FadeMotion delay={0.5}>
             <Text fontSize="2xl" color="main" align="center">
-              13 · 08 · 23
+              22 · 10 · 23
             </Text>
           </FadeMotion>
         </Box>

@@ -15,9 +15,9 @@ const Wishes = dynamic(() => import("../components/wishes"), {
 const WishesSwiper = dynamic(() => import("../components/wishes-swiper"), {
   ssr: false,
 });
-// const AudioMedia = dynamic(() => import("../components/audio-media"), {
-//   ssr: false,
-// });
+const AudioMedia = dynamic(() => import("../components/audio-media"), {
+  ssr: false,
+});
 
 export default function Home() {
   return (
@@ -28,7 +28,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main style={{ backgroundColor: "white" }}>
-        {/* <AudioMedia /> */}
+        <AudioMedia />
         <IntroSection />
         <GromAndBride />
         {/* <Countdown /> */}

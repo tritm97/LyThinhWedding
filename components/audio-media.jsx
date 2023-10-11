@@ -1,9 +1,9 @@
 import { Box, Image, Text } from "@chakra-ui/react";
 import { useState, useRef, useCallback } from "react";
-import volumnUpIcon from "../public/volume-up.svg";
+import volumnUpIcon from "../public/volume-on.svg";
 import volumnOffIcon from "../public/volume-off.svg";
 
-import music from "../public/codau.mp3";
+import music from "../public/EveryMomentOfYou.423c1ad8fc13a9dc.mp3";
 
 const VolumnOffIcon = () => (
   <Image alt="volumnOffIcon" src={volumnOffIcon.src} height={6} />
